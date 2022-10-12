@@ -1,0 +1,69 @@
+.portada-h{
+    width: 100%;
+    height: 44em;
+    text-align: center;
+    overflow: hidden;
+    position: relative;
+}
+.portada-b{
+    width: 100%;
+    height: 51em;
+    overflow: hidden;
+}
+.fondo{
+    width: 100%;
+}
+.fondo-inf{
+    bottom: -15px;
+}
+.fondo-f{
+    top: 0;
+}
+.mgn-a{
+    margin: 0 auto;
+}
+.block{
+    position: relative;
+    z-index: 0;
+}
+.logo-ptd{
+    width: 40%;
+    margin: 0 auto;
+}
+.pp{
+    width: 100%;
+    height: 90%;
+}
+.nube-tp{
+    top: -131px;
+}
+.nube-inf{
+    bottom: -140px;
+}
+.img-btn{
+    width: 68%;
+}
+.boton-fondo{
+    z-index: -1;
+    width: 100% !important;
+}
+.zind2{
+    z-index: 2;
+}
+@media screen and (min-width: 720px) {
+    .fondo-inf{
+        bottom: -90px;
+    }
+    .portada-h{
+        height: 40em;
+    }
+  }
+.mgtp8{
+    margin-top: 8em;
+}
+article p{
+    font-size: 10pt;
+}
+.txl{
+    text-align: left;
+}
